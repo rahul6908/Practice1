@@ -1,0 +1,9 @@
+
+
+//Tell Git who you are
+C:\Users\Rahul>git config --global user.name "rahul"
+C:\Users\Rahul>git config --global user.email rahuljain5355@gmail.com
+
+//Create a new local repository
+C:\Users\Rahul\Desktop\Java\Git>git init
+
